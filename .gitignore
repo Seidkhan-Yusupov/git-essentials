@@ -1,3 +1,4 @@
 *.todo
 .DS_Store
-*.jpg
+*.pyc
+_pycache_/
